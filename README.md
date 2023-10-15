@@ -1,6 +1,6 @@
 # sql-challenge
 
-This research project is about creating an analysis of people whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
+This research project is about creating an analysis of human resources whom the company employed during the 1980s and 1990s. All that remains of the employee database from that period are six CSV files.
 
 The six CSV files are:
 <ul>
