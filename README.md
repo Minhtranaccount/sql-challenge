@@ -4,14 +4,13 @@ This research project is about creating an analysis of people whom the company e
 
 The six CSV files are:
 <ul>
-  <li>departments <li>
-  <li>dept_emp <li>
-<li>dept_manager <li>
-<li>employees <li>
-<li>salaries <li>
-<li>titles<li>
+  <li>departments 
+  <li>dept_emp 
+<li>dept_manager 
+<li>employees 
+<li>salaries 
+<li>titles
 </ul>
-
 
 For this project, I have designed the tables to hold the data from the CSV files, imported the CSV files into a SQL database, and then answered questions about the data. 
 
