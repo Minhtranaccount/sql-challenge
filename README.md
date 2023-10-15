@@ -4,7 +4,7 @@ This research project is about creating an analysis of people whom the company e
 
 The six CSV files are:
 <ul>
-  departments 
+  <li> departments 
   <li>dept_emp 
 <li>dept_manager 
 <li>employees 
